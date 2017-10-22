@@ -1,0 +1,4 @@
+- name: rundeck-ansible-sample-role
+  src: https://github.com/tinoji/rundeck-ansible-sample-role
+  srm: git
+
